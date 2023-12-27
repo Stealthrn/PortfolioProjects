@@ -1,3 +1,5 @@
+
+-- Creating a larger table that includes everything we need for data visualisations
 SELECT
     u.age,
     u.gender,
